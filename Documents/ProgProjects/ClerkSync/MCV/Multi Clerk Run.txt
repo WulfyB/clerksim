@@ -1,0 +1,163 @@
+ ----jGRASP exec: java Simulation
+time=0, Customer 8 scheduled to arrived at 1017
+time=0, Customer 4 scheduled to arrived at 1699
+time=0, Customer 2 scheduled to arrived at 896
+time=0, Customer 3 scheduled to arrived at 1266
+time=0, Customer 0 scheduled to arrived at 2940
+time=0, Customer 9 scheduled to arrived at 1926
+time=0, Customer 7 scheduled to arrived at 1137
+time=0, Customer 1 scheduled to arrived at 1186
+time=0, Customer 6 scheduled to arrived at 1061
+time=0, Customer 5 scheduled to arrived at 470
+time=480, Customer 5 is arriving.
+time=480, Customer 5 is in waiting room, waiting= 1
+time=480, Clerk 0 has customer, waiting=0
+time=480, Clerk 0 is servicing.
+time=480, Customer 5 is being served for 607 ms
+time=900, Customer 2 is arriving.
+time=900, Customer 2 is in waiting room, waiting= 1
+time=900, Clerk 1 has customer, waiting=0
+time=900, Clerk 1 is servicing.
+time=900, Customer 2 is being served for 894 ms
+time=1020, Customer 8 is arriving.
+time=1020, Customer 8 is in waiting room, waiting= 1
+time=1080, Customer 6 is arriving.
+time=1080, Customer 6 is in waiting room, waiting= 2
+time=1100, Customer 5 finished getting serviced.
+time=1100, Customer 5 scheduled to arrived at 1049
+time=1100, Clerk 0 free, waiting on customer
+time=1100, Clerk 0 has customer, waiting=1
+time=1100, Clerk 0 is servicing.
+time=1100, Customer 8 is being served for 631 ms
+time=1150, Customer 7 is arriving.
+time=1150, Customer 7 is in waiting room, waiting= 2
+time=1200, Customer 1 is arriving.
+time=1200, Customer 1 is in waiting room, waiting= 3
+time=1280, Customer 3 is arriving.
+time=1280, Customer 3 is leaving, no open chairs.
+time=1280, Customer 3 scheduled to arrived at 265
+time=1550, Customer 3 is arriving.
+time=1550, Customer 3 is leaving, no open chairs.
+time=1550, Customer 3 scheduled to arrived at 2782
+time=1700, Customer 4 is arriving.
+time=1700, Customer 4 is leaving, no open chairs.
+time=1700, Customer 4 scheduled to arrived at 1724
+time=1740, Customer 8 finished getting serviced.
+time=1740, Customer 8 scheduled to arrived at 69
+time=1740, Clerk 0 free, waiting on customer
+time=1740, Clerk 0 has customer, waiting=2
+time=1740, Clerk 0 is servicing.
+time=1740, Customer 6 is being served for 666 ms
+time=1810, Customer 2 finished getting serviced.
+time=1810, Customer 2 scheduled to arrived at 1135
+time=1810, Clerk 1 free, waiting on customer
+time=1810, Clerk 1 has customer, waiting=1
+time=1810, Clerk 1 is servicing.
+time=1810, Customer 7 is being served for 195 ms
+time=1820, Customer 8 is arriving.
+time=1820, Customer 8 is in waiting room, waiting= 2
+time=1930, Customer 9 is arriving.
+time=1940, Customer 9 is in waiting room, waiting= 3
+time=2020, Customer 7 finished getting serviced.
+time=2020, Customer 7 scheduled to arrived at 678
+time=2020, Clerk 1 free, waiting on customer
+time=2020, Clerk 1 has customer, waiting=2
+time=2020, Clerk 1 is servicing.
+time=2020, Customer 1 is being served for 416 ms
+time=2150, Customer 5 is arriving.
+time=2150, Customer 5 is in waiting room, waiting= 3
+time=2410, Customer 6 finished getting serviced.
+time=2420, Customer 6 scheduled to arrived at 2496
+time=2420, Clerk 0 free, waiting on customer
+time=2420, Clerk 0 has customer, waiting=2
+time=2420, Clerk 0 is servicing.
+time=2420, Customer 8 is being served for 321 ms
+time=2440, Customer 1 finished getting serviced.
+time=2450, Customer 1 scheduled to arrived at 343
+time=2450, Clerk 1 free, waiting on customer
+time=2450, Clerk 1 has customer, waiting=1
+time=2450, Clerk 1 is servicing.
+time=2450, Customer 9 is being served for 438 ms
+time=2700, Customer 7 is arriving.
+time=2700, Customer 7 is in waiting room, waiting= 2
+time=2760, Customer 8 finished getting serviced.
+time=2760, Customer 8 scheduled to arrived at 423
+time=2760, Clerk 0 free, waiting on customer
+time=2760, Clerk 0 has customer, waiting=1
+time=2760, Clerk 0 is servicing.
+time=2760, Customer 5 is being served for 725 ms
+time=2810, Customer 1 is arriving.
+time=2810, Customer 1 is in waiting room, waiting= 2
+time=2890, Customer 9 finished getting serviced.
+time=2890, Customer 9 scheduled to arrived at 1260
+time=2890, Clerk 1 free, waiting on customer
+time=2890, Clerk 1 has customer, waiting=1
+time=2890, Clerk 1 is servicing.
+time=2890, Customer 7 is being served for 345 ms
+time=2940, Customer 0 is arriving.
+time=2950, Customer 0 is in waiting room, waiting= 2
+time=2960, Customer 2 is arriving.
+time=2960, Customer 2 is in waiting room, waiting= 3
+time=3200, Customer 8 is arriving.
+time=3200, Customer 8 is leaving, no open chairs.
+time=3200, Customer 8 scheduled to arrived at 1310
+time=3250, Customer 7 finished getting serviced.
+time=3250, Customer 7 scheduled to arrived at 1943
+time=3250, Clerk 1 free, waiting on customer
+time=3250, Clerk 1 has customer, waiting=2
+time=3250, Clerk 1 is servicing.
+time=3250, Customer 1 is being served for 661 ms
+time=3430, Customer 4 is arriving.
+time=3430, Customer 4 is in waiting room, waiting= 3
+time=3490, Customer 5 finished getting serviced.
+time=3500, Customer 5 scheduled to arrived at 2424
+time=3500, Clerk 0 free, waiting on customer
+time=3500, Clerk 0 has customer, waiting=2
+time=3500, Clerk 0 is servicing.
+time=3500, Customer 0 is being served for 867 ms
+time=3930, Customer 1 finished getting serviced.
+time=3930, Customer 1 scheduled to arrived at 2684
+time=3930, Clerk 1 free, waiting on customer
+time=3930, Clerk 1 has customer, waiting=1
+time=3930, Clerk 1 is servicing.
+time=3930, Customer 2 is being served for 144 ms
+time=4080, Customer 2 finished getting serviced.
+time=4090, Customer 2 scheduled to arrived at 2841
+time=4090, Clerk 1 free, waiting on customer
+time=4090, Clerk 1 has customer, waiting=0
+time=4090, Clerk 1 is servicing.
+time=4090, Customer 4 is being served for 154 ms
+time=4160, Customer 9 is arriving.
+time=4160, Customer 9 is in waiting room, waiting= 1
+time=4260, Customer 4 finished getting serviced.
+time=4260, Customer 4 scheduled to arrived at 1180
+time=4260, Clerk 1 free, waiting on customer
+time=4260, Clerk 1 has customer, waiting=0
+time=4260, Clerk 1 is servicing.
+time=4260, Customer 9 is being served for 900 ms
+time=4340, Customer 3 is arriving.
+time=4340, Customer 3 is in waiting room, waiting= 1
+time=4370, Customer 0 finished getting serviced.
+time=4370, Customer 0 scheduled to arrived at 577
+time=4370, Clerk 0 free, waiting on customer
+time=4370, Clerk 0 has customer, waiting=0
+time=4370, Clerk 0 is servicing.
+time=4370, Customer 3 is being served for 337 ms
+time=4510, Customer 8 is arriving.
+time=4520, Customer 8 is in waiting room, waiting= 1
+time=4710, Customer 3 finished getting serviced.
+time=4720, Customer 3 scheduled to arrived at 709
+time=4720, Clerk 0 free, waiting on customer
+time=4720, Clerk 0 has customer, waiting=0
+time=4720, Clerk 0 is servicing.
+time=4720, Customer 8 is being served for 47 ms
+time=4770, Customer 8 finished getting serviced.
+time=4770, Customer 8 scheduled to arrived at 2868
+time=4770, Clerk 0 free, waiting on customer
+time=4920, Customer 6 is arriving.
+time=4930, Customer 6 is in waiting room, waiting= 1
+time=4930, Clerk 0 has customer, waiting=0
+time=4930, Clerk 0 is servicing.
+time=4930, Customer 6 is being served for 327 ms
+time=4950, Customer 0 is arriving.
+time=4950, Customer 0 is in waiting room, waiting= 1
